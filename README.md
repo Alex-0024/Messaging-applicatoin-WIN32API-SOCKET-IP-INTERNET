@@ -3,6 +3,7 @@ This is an application for exchanging messages between two operators using the I
 - if you want to be a server you need to set only type. One person can be only a client and another only a server.
 - you can set your name or not. After that you need to press START and waiting for the connect.
 - after the connect you can messaging.
+- for send message you can use Enter or button Send.
 
 ![Image alt](https://github.com/Alex-0024/Messaging-applicatoin-WIN32API-SOCKET-IP-INTERNET/blob/main/front.png)
 
