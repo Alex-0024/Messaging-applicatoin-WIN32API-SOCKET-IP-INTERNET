@@ -6,3 +6,5 @@ This is an application for exchanging messages between two operators using the I
 - after the connect you can messaging.
 
 Have a good connecting and messaging :-)
+
+![Image alt](https://github.com/Alex-0024/Messaging-applicatoin-WIN32API-SOCKET-IP-INTERNET/edit/main/README.md)
