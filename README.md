@@ -9,3 +9,5 @@ Have a good connecting and messaging :-)
 
 
 ![Image alt](https://github.com/Alex-0024/Messaging-applicatoin-WIN32API-SOCKET-IP-INTERNET/blob/main/front.png)
+
+![Image alt](https://github.com/Alex-0024/Messaging-applicatoin-WIN32API-SOCKET-IP-INTERNET/blob/main/fronttwo.png)
